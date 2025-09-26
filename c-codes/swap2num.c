@@ -1,3 +1,4 @@
+//code no 4
 #include <stdio.h>
 int main(){
 	int a, b, temp;

@@ -1,3 +1,4 @@
+//code no 1
 #include<stdio.h>
 int main(){
 	char name[20];

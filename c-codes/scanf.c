@@ -1,3 +1,4 @@
+//code no 2
 #include<stdio.h>
 int main(){
 	int age;
